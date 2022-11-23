@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\bin\Debug\Input and Formulas.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\bin\Debug\Input and Formulas.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\bin\Debug\Input and Formulas.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\bin\Debug\Input and Formulas.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input and Formulas.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input_and_Formulas.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input_and_Formulas.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input and Formulas.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input and Formulas.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input and Formulas.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input and Formulas.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Input and Formulas\Input and Formulas\obj\Debug\Input and Formulas.pdb

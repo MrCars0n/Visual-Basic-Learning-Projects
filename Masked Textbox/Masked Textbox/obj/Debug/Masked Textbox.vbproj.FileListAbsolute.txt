@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\bin\Debug\Masked Textbox.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\bin\Debug\Masked Textbox.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\bin\Debug\Masked Textbox.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\bin\Debug\Masked Textbox.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked Textbox.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked_Textbox.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked_Textbox.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked Textbox.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked Textbox.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked Textbox.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked Textbox.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Masked Textbox\Masked Textbox\obj\Debug\Masked Textbox.pdb

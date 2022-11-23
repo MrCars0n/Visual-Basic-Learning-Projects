@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\bin\Debug\My Paint.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\bin\Debug\My Paint.exe
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\bin\Debug\My Paint.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\bin\Debug\My Paint.xml
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My Paint.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My_Paint.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My Paint.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My Paint.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My Paint.exe
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My Paint.xml
+C:\Users\22ckramer\Desktop\Visual Basic\My Paint\My Paint\obj\Debug\My Paint.pdb

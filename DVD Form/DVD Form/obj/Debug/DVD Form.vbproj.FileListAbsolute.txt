@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\bin\Debug\DVD Form.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\bin\Debug\DVD Form.exe
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\bin\Debug\DVD Form.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\bin\Debug\DVD Form.xml
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD Form.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD_Form.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD_Form.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD Form.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD Form.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD Form.exe
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD Form.xml
+C:\Users\22ckramer\Desktop\Visual Basic\DVD Form\DVD Form\obj\Debug\DVD Form.pdb

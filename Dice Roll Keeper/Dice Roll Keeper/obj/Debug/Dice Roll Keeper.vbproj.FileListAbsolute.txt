@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\bin\Debug\Dice Roll Keeper.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\bin\Debug\Dice Roll Keeper.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\bin\Debug\Dice Roll Keeper.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\bin\Debug\Dice Roll Keeper.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice Roll Keeper.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice_Roll_Keeper.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice_Roll_Keeper.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice Roll Keeper.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice Roll Keeper.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice Roll Keeper.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice Roll Keeper.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Keeper\Dice Roll Keeper\obj\Debug\Dice Roll Keeper.pdb

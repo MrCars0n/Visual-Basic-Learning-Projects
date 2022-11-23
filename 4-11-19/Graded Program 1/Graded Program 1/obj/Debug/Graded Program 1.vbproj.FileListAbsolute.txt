@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\bin\Debug\Graded Program 1.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\bin\Debug\Graded Program 1.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\bin\Debug\Graded Program 1.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\bin\Debug\Graded Program 1.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded Program 1.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded_Program_1.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded_Program_1.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded Program 1.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded Program 1.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded Program 1.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded Program 1.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Graded Program 1\Graded Program 1\obj\Debug\Graded Program 1.pdb

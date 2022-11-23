@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\bin\Debug\Sliders 2.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\bin\Debug\Sliders 2.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\bin\Debug\Sliders 2.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\bin\Debug\Sliders 2.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders 2.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders_2.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders_2.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders 2.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders 2.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders 2.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders 2.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Sliders 2\Sliders 2\obj\Debug\Sliders 2.pdb

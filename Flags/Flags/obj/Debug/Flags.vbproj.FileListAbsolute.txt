@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\bin\Debug\Flags.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\bin\Debug\Flags.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\bin\Debug\Flags.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\bin\Debug\Flags.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Flags\Flags\obj\Debug\Flags.pdb

@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\bin\Debug\Scroll Bar.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\bin\Debug\Scroll Bar.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\bin\Debug\Scroll Bar.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\bin\Debug\Scroll Bar.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll Bar.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll_Bar.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll_Bar.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll Bar.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll Bar.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll Bar.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll Bar.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Scroll Bar\Scroll Bar\obj\Debug\Scroll Bar.pdb

@@ -1,0 +1,13 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\bin\Debug\Form Enlargement.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\bin\Debug\Form Enlargement.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\bin\Debug\Form Enlargement.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\bin\Debug\Form Enlargement.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form_Enlargement.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form_Enlargement.Form2.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form_Enlargement.Form3.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form_Enlargement.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form Enlargement.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form Enlargement.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form Enlargement.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form Enlargement.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Form Enlargement\Form Enlargement\obj\Debug\Form Enlargement.pdb

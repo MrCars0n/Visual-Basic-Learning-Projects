@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\bin\Debug\Stroop Test.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\bin\Debug\Stroop Test.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\bin\Debug\Stroop Test.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\bin\Debug\Stroop Test.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop Test.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop_Test.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop_Test.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop Test.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop Test.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop Test.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop Test.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Stroop Test\Stroop Test\obj\Debug\Stroop Test.pdb

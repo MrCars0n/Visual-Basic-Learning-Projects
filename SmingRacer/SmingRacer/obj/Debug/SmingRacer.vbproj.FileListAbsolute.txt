@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\bin\Debug\SmingRacer.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\bin\Debug\SmingRacer.exe
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\bin\Debug\SmingRacer.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\bin\Debug\SmingRacer.xml
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.exe
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.xml
+C:\Users\22ckramer\Desktop\Visual Basic\SmingRacer\SmingRacer\obj\Debug\SmingRacer.pdb

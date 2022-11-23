@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\bin\Debug\Dice Roll Counter.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\bin\Debug\Dice Roll Counter.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\bin\Debug\Dice Roll Counter.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\bin\Debug\Dice Roll Counter.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice Roll Counter.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice_Roll_Counter.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice_Roll_Counter.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice Roll Counter.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice Roll Counter.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice Roll Counter.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice Roll Counter.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Dice Roll Counter\Dice Roll Counter\obj\Debug\Dice Roll Counter.pdb

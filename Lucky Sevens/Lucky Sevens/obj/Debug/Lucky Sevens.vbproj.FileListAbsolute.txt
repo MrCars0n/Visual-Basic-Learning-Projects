@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\bin\Debug\Lucky Sevens.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\bin\Debug\Lucky Sevens.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\bin\Debug\Lucky Sevens.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\bin\Debug\Lucky Sevens.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky Sevens.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky_Sevens.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky_Sevens.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky Sevens.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky Sevens.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky Sevens.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky Sevens.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Lucky Sevens\Lucky Sevens\obj\Debug\Lucky Sevens.pdb

@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\bin\Debug\Pizza Restraunt.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\bin\Debug\Pizza Restraunt.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\bin\Debug\Pizza Restraunt.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\bin\Debug\Pizza Restraunt.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza Restraunt.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza_Restraunt.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza_Restraunt.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza Restraunt.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza Restraunt.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza Restraunt.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza Restraunt.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Pizza Restraunt\Pizza Restraunt\obj\Debug\Pizza Restraunt.pdb

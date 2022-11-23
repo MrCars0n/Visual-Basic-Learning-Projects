@@ -1,0 +1,12 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\bin\Debug\Quadratic Solver.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\bin\Debug\Quadratic Solver.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\bin\Debug\Quadratic Solver.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\bin\Debug\Quadratic Solver.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic Solver.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic_Solver.Form1.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic_Solver.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic Solver.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic Solver.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic Solver.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic Solver.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Quadratic Solver\Quadratic Solver\obj\Debug\Quadratic Solver.pdb
